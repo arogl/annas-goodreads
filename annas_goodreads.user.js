@@ -6,7 +6,7 @@
 // @description     Allows for quick searching of goodread books in Anna's Archive
 // @match           https://www.goodreads.com/*
 // @iconURL         https://raw.githubusercontent.com/JonDerThan/annas-goodreads/main/annas-archive-favicon.png
-// @source          https://github.com/JonDerThan/annas-goodreads,
+// @source          https://github.com/JonDerThan/annas-goodreads
 //
 // ==/UserScript==
 
